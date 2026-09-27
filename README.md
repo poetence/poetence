@@ -9,7 +9,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 CS student at **The City College of New York (CCNY)**
-- 💻 Aspiring **Software Engineer / Full-Stack Developer**
+- 💻 Aspiring Software Engineer
 - 🌱 Currently sharpening my full-stack and computer science fundamentals
 - 🏋️ Off the keyboard, you'll find me at the gym or playing games
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohammed-islam-dev/)
