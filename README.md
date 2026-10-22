@@ -21,34 +21,48 @@
 <div align="center">
 
 ### Languages
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=E76F00" />
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
 
-### Frameworks
+### Frameworks & Libraries
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/Spring_AI-000000?style=for-the-badge&logo=spring&logoColor=6DB33F" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
-
-### Developer Tools
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-<img src="https://img.shields.io/badge/macOS_CLI-000000?style=for-the-badge&logo=apple&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
-
-### Libraries & ORMs
 <img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" />
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=013243" />
+
+### Data & Testing
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Flyway-000000?style=for-the-badge&logo=flyway&logoColor=CC0200" />
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logo=openapiinitiative&logoColor=6BA539" />
+<img src="https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MSAL4J-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0YyNTAyMiIgZD0iTTAgMGgxMS40djExLjRIMHoiLz48cGF0aCBmaWxsPSIjN0ZCQTAwIiBkPSJNMTIuNiAwSDI0djExLjRIMTIuNnoiLz48cGF0aCBmaWxsPSIjMDBBNEVGIiBkPSJNMCAxMi42aDExLjRWMjRIMHoiLz48cGF0aCBmaWxsPSIjRkZCOTAwIiBkPSJNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/Microsoft_Graph-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI0YyNTAyMiIgZD0iTTAgMGgxMS40djExLjRIMHoiLz48cGF0aCBmaWxsPSIjN0ZCQTAwIiBkPSJNMTIuNiAwSDI0djExLjRIMTIuNnoiLz48cGF0aCBmaWxsPSIjMDBBNEVGIiBkPSJNMCAxMi42aDExLjRWMjRIMHoiLz48cGF0aCBmaWxsPSIjRkZCOTAwIiBkPSJNMTIuNiAxMi42SDI0VjI0SDEyLjZ6Ii8%2BPC9zdmc%2B" />
+<img src="https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=25A162" />
+<img src="https://img.shields.io/badge/Testcontainers-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=6E9F18" />
+
+### Tools & DevOps
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=D97757" />
 
 </div>
 
